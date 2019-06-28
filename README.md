@@ -1,4 +1,4 @@
-# sparse-neural-network
+# sparse-nn
 tensorflow reproduction of 
 ```
 "Learning Sparse Neural Networks through L_0 Regularization" 
